@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>灯泡开关</title>
+	<script type="text/javascript">
+		function useBulb(){
+         var element = document.getElementById("bulb")
+         if(element.src.match("bulbon"))
+         {
+         	element.src="images/pic_bulboff.gif";
+         }
+         else{
+         	element.src="images/pic_bulbon.gif";
+         }
+		}
+		/*JavaScript String对象，JavaScript match()方法*/
+	</script>
+</head>
+<body>
+	<img src="images/pic_bulboff.gif" id="bulb" onclick="useBulb()">
+	<p>点击开灯，再次点击关灯</p>
+</body>
+</html>
