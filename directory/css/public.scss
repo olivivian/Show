@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+input,select,textarea,li,img{
+	vertical-align: middle;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.fn{
+	float: none;
+}
+// @for $i from 5 through 90{
+// 	.w#{$i*10}{
+// 		width:$i*10+px;
+// 	}
+// }
+body{
+	font-family: Arial,Verdana,"Microsoft YaHei";
+}
+
+
+
+
+
+
+
