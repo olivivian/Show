@@ -1,0 +1,2 @@
+*{margin:0;padding:0}body{font-family:"Microsoft yahei"}.stars{margin-top:50px;width:600px;margin-left:auto;margin-right:auto}.stars .star{display:inline-block;width:80px;height:80px;background:url(../images/stars1.png) center no-repeat;cursor:pointer}.stars .star_gray{background:url(../images/stars2.png) center no-repeat}.stars .stars_fen{font-size:20px}.stars .stars_fen span{color:#f00;font-size:30px}
+/*# sourceMappingURL=web.css.map */
