@@ -1,0 +1,9 @@
+/*栅格系统中的行与列样式默认没有边框，
+为了显示行和列的运行效果，通过设置如下CSS代码
+*/
+/*
+.row div{
+	border: 1px solid #000;
+	height: 50px;
+	background: #eee;
+}*/
